@@ -1,6 +1,7 @@
 # Javaquarium
 
 Projet réalisé à partir de cette [exercice](https://zestedesavoir.com/forums/sujet/447/javaquarium/) dans le but de tester ma maitrise du language.
+Je sais que ce n'est pas parfait, ce n'est pas encore tout à fait finis.
 
 ## Programme
 
