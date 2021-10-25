@@ -5,8 +5,6 @@ Projet réalisé à partir de cette [exercice](https://zestedesavoir.com/forums/
 
 ## Explications
 
-J'ai réalisé cette exercice dans le but de tester si j'avais acquis les bases en programmation,
-je sais que le programme n'est pas parfait mais ça me permet de vous montrer mes competences.
 ## Programme
 
 A la première execution 1 fichier de configuration sera crée dans "C:\Users\user\Documents\Javaquarium"
