@@ -2,9 +2,6 @@
 
 Projet réalisé à partir de cette [exercice](https://zestedesavoir.com/forums/sujet/447/javaquarium/) dans le but de tester ma maitrise du language.
 
-
-## Explications
-
 ## Programme
 
 A la première execution 1 fichier de configuration sera crée dans "C:\Users\user\Documents\Javaquarium"
